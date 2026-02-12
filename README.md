@@ -45,11 +45,14 @@ Select the best-performing ad platform based on statistical testing and build a 
 
 ---
 
-## Business Impact
 
-- Identified statistically significant performance differences between platforms  
-- Built regression model to predict campaign conversions  
-- Provided actionable recommendations to improve ROI and marketing efficiency  
+## Key Results
+
+- Conducted A/B test to compare conversion performance between marketing platforms.
+- Identified statistically significant difference in conversion rates (p-value < 0.05).
+- Built regression model to predict conversions based on spend and campaign features.
+- Improved decision confidence for platform selection using data-driven testing.
+ 
 
 ---
 
